@@ -24,7 +24,7 @@ scorpio_horoscope = ["Are you getting the credit you deserve, Scorpio? Saturday�
 sagittraius_horoscope = ["Take a break, Sagittarius! You’ll find that you’re far more productive after a day with your besties (or at least a long brunch).","Sunday’s new moon lands in your eleventh house of community, helping you radar in on a squad of kindred spirits.","Keep plans flexible-individual who plans itinerary will be absent. Take charge of your own destiny-love relationship depends on ability to travel. Aries involved."]
 
 if month not in months:
-    print("Nursery padhna jau vai month haru ko spelling nai aaudaina raixa ta")
+    print("Nursery padhna jau bhai month haru ko spelling nai aaudaina raixa ta")
 
 if month in months:
     if month == "january":
